@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 
 ### About me
 
-- My skills are ...
-
-- 🌱 I’m currently learning ...
-
-
 - 🔭 I’m currently working on ...
 - [Website](https://guilhermefelix.me) 💻 
 
