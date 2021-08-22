@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### I'm Guilherme!
-geographer and front-end developer 🌎  💻
-passionate about maps on internet, creative websites and how this things can help us to solve problems
+geographer and front-end developer 🌎  💻 &nbsp; passionate about maps on internet, creative websites and how this things can help us to solve problems
 
 - [Website](https://guilhermefelix.me) 💻 
 - 📫  How to reach me: felixxguilherme@gmail.com
