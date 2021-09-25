@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻  I’m currently working with front-end web development
-- 🌱  Learning front-end engineering at British School of Creative Arts and Technology - EBAC
+- 🌱  Learning front-end engineering at Escola Britânica de Artes Criativas e Tecnologia - EBAC
 
 - I feel confident in:
 
